@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 fits-rs = "0.3.0"
-nom = "3.1.0"
+nom = "7.1.0"

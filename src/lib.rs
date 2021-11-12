@@ -1,3 +1,5 @@
+pub mod hduparser;
+
 #[cfg(test)]
 mod tests {
     #[test]
